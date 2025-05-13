@@ -1,4 +1,3 @@
-
 # MFI Business Intelligence Dashboard
 
 ## Executive Summary
@@ -139,4 +138,3 @@ MIT License (Optional â€” consider adding)
 [GitHub](https://github.com/arkarpro)
 [Linkedin](https://www.linkedin.com/in/arkar-linn-datapro/)
 [Facebook](https://www.facebook.com/arkar.linn.ceo/)
-
