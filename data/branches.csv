@@ -1,0 +1,51 @@
+branch_id,branch_name,township,region_state,zone,totalhousehold,totalborrowersallmfi,opening_date,staff_count
+BR001,Tatkon,Tatkon,Nay Pyi Taw,Central,53401,3338,05/05/2021,16
+BR002,Taungoo,Taungoo,Bago (East),Central,57460,1512,27/08/2020,11
+BR003,Monywa,Monywa,Sagaing,Central,77297,2089,18/01/2022,10
+BR004,Shwebo,Shwebo,Sagaing,Central,65390,1635,26/07/2022,8
+BR005,Bago,Bago,Bago (East),Central,115440,3395,25/12/2022,24
+BR006,Kyaikto,Kyaikto,Mon,Lower,344615,9069,20/07/2022,14
+BR007,Taunggyi,Taunggyi,Shan (South),Upper,94869,3795,28/01/2024,21
+BR008,Hpakant,Hpakant,Kachin,Upper,37901,1223,30/12/2023,16
+BR009,Shwepyithar,Shwepyithar,Yangon,Lower,73775,3689,21/11/2020,13
+BR010,Bogale,Bogale,Ayeyarwady,Lower,79215,2641,19/06/2021,16
+BR011,North Okkalapa,North Okkalapa,Yangon,Lower,70099,1797,28/10/2020,11
+BR012,Kale,Kale,Sagaing,Central,72769,4043,22/07/2021,19
+BR013,Paletwa,Paletwa,Chin,Upper,21048,957,11/08/2022,16
+BR014,Kyauktaw,Kyauktaw,Rakhine,Lower,47914,1198,23/05/2023,25
+BR015,Aunglan,Aunglan,Magway,Central,60303,1508,29/09/2022,10
+BR016,Labutta,Labutta,Ayeyarwady,Lower,78451,2452,16/12/2022,19
+BR017,Tedim,Tedim,Chin,Upper,15828,989,29/10/2023,9
+BR018,Hsipaw,Hsipaw,Shan (North),Upper,38296,1473,28/04/2024,10
+BR019,Meiktila,Meiktila,Mandalay,Central,68439,3422,25/08/2022,20
+BR020,Myingyan,Myingyan,Mandalay,Central,64831,2161,19/07/2022,13
+BR021,Myitkyina,Myitkyina,Kachin,Upper,52591,1461,15/12/2022,16
+BR022,Hinthada,Hinthada,Ayeyarwady,Lower,86129,4101,26/04/2022,13
+BR023,Loikaw,Loikaw,Kayah,Upper,26495,1559,01/09/2020,13
+BR024,Kengtung,Kengtung,Shan (East),Upper,34096,1066,17/11/2021,25
+BR025,Hlaingtharya,Hlaingtharya,Yangon,Lower,148711,5720,10/09/2020,9
+BR026,Magway,Magway,Magway,Central,68677,2215,09/04/2024,18
+BR027,Kyaukme,Kyaukme,Shan (North),Upper,38256,1471,28/05/2021,14
+BR028,Mrauk-U,Mrauk-U,Rakhine,Lower,48322,3020,22/03/2023,18
+BR029,Pyawbwe,Pyawbwe,Mandalay,Central,64220,2792,30/12/2023,20
+BR030,Pakokku,Pakokku,Magway,Central,71572,3408,01/03/2022,12
+BR031,Mohnyin,Mohnyin,Kachin,Upper,39622,1101,13/10/2022,25
+BR032,Lewe,Lewe,Nay Pyi Taw,Central,68003,3778,21/06/2021,21
+BR033,Lashio,Lashio,Shan (North),Upper,64932,4058,12/04/2021,19
+BR034,Nattalin,Nattalin,Bago (West),Central,47615,1701,25/08/2023,24
+BR035,Phyu,Phyu,Bago (East),Central,54931,1772,22/12/2021,11
+BR036,Ngapudaw,Ngapudaw,Ayeyarwady,Lower,76652,2129,13/04/2024,21
+BR037,Dagon Myothit (Seikkan),Dagon Myothit (Seikkan),Yangon,Lower,74762,3398,06/08/2023,20
+BR038,Hpa-An,Hpa-An,Kayin,Lower,89197,4460,22/06/2022,24
+BR039,Kanbalu,Kanbalu,Sagaing,Central,67913,2717,17/11/2020,8
+BR040,Pyay,Pyay,Bago (West),Central,59330,1521,24/09/2023,25
+BR041,Nyaungshwe,Nyaungshwe,Shan (South),Upper,42634,2244,06/10/2022,11
+BR042,Mogaung,Mogaung,Kachin,Upper,26602,1064,27/09/2022,22
+BR043,Dagon Myothit (South),Dagon Myothit (South),Yangon,Lower,76984,2655,06/12/2023,24
+BR044,Tachileik,Tachileik,Shan (East),Upper,37673,2093,23/12/2020,11
+BR045,Letpadan,Letpadan,Bago (West),Central,44873,2040,12/02/2021,24
+BR046,Pathein,Pathein,Ayeyarwady,Lower,85687,2142,22/02/2022,19
+BR047,Mawlamyine,Mawlamyine,Mon,Lower,57457,1915,15/12/2021,24
+BR048,Myeik,Myeik,Tanintharyi,Lower,59176,1691,02/05/2022,18
+BR049,Kyunsu,Kyunsu,Tanintharyi,Lower,35754,1882,17/07/2023,19
+BR050,Sittwe,Sittwe,Rakhine,Lower,62835,1904,21/09/2021,15
